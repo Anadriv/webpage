@@ -1,0 +1,12 @@
+a:visited{
+color:darkred
+}
+
+a:hover{
+color:white;
+font-size:24px;
+}
+
+hr:hover{
+color:white
+}
